@@ -1,0 +1,8 @@
+
+# dotenv environment variable files
+.env
+leer.txt
+package-lock.json
+package.json
+
+/node_modules/

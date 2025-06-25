@@ -11,7 +11,8 @@ require('dotenv').config({ path: '.env' });
 
 
 */
-//console.log(process.env.API_KEY);
+
+
 const uri = "mongodb+srv://" + process.env.API_KEY + "@cluster0.tik81bx.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
 const client = new MongoClient(uri);
  
