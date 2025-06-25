@@ -2,7 +2,9 @@
 # dotenv environment variable files
 .env
 leer.txt
-package-lock.json
-package.json
 
-/node_modules/
+
+
+# Node build artifacts
+node_modules
+npm-debug.log

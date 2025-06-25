@@ -15,3 +15,7 @@ Lectura de últimos 24 horas de estado Glucosa
 *   Base de datos: MongoDB
 
 
+### ENLACES
+
+*   git -->  https://github.com/alqaid/glucemia
+*   subido a Heroku --> https://glucemia-9f7f0bebedf3.herokuapp.com/
