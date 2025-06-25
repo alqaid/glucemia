@@ -1,8 +1,8 @@
 # Proyecto lectura glucosa en MONGODB
 
-## Versión 1.0
+### Versión 1.0
 
-## Ángel Alcaide
+### Ángel Alcaide
 
 ## Descripción
 
